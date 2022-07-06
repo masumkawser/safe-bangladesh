@@ -131,7 +131,7 @@ footer{
     .lives-depend{
         box-shadow: 15px 15px 40px gray;
         border-radius: 15px;
-       
+       background-color:burlywood;
         text-align: center; 
         
     }
