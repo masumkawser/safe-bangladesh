@@ -1,0 +1,186 @@
+*{
+margin:0px;
+padding:0px;
+    font-family: 'Lato', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    color:wheat;
+}
+.heading_part{
+    background-image: url(./images/donation4.jpg);
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+
+    
+}
+.heading_part p{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 16px;
+
+
+}
+.linkbutton  a{
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 16px;
+    padding-left: 10px;
+    font-weight: bold;
+}
+.linkbutton{
+   
+    margin-top: 50px;
+    border:5px solid tomato;
+    width: 100px;
+    border-radius: 5px;
+    background-color: tomato;
+    margin-left: 40%;
+   
+}
+.Donate h1{
+    color: black;
+    margin-top: 20px;
+}
+.Description p{
+    text-align: center;
+}
+.taka{
+    display: flex;
+    gap: 30px;
+    margin-left: 30%;
+    margin-top: 100px;
+    
+}
+.one{
+    height: 60px;
+    width:100px;
+    padding-top: 50px;
+    text-align: center;
+    border-radius: 5px;
+    border: 3px solid whitesmoke;
+}
+#other{
+    border: 3px solid tomato;
+}
+.amount{
+    
+   
+    padding-left:10px;
+    margin:30%;
+    margin-top: 50px;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color:gray;
+    padding-top: 5px;
+}
+.color{
+    color: green;
+}
+.our-donation h1{
+    color: black;
+    margin-top: -30%;
+}
+.our-donation p{
+    text-align: center;
+}
+.card{
+    margin-top: 50px;
+    
+    display: flex;
+    gap: 50px;
+    height: 200px;
+    width:100%;
+   
+    text-align: center;
+    border-radius: 5px;
+    
+
+} 
+.box{
+    height: 200px;
+    width:100%;
+    border: 3px solid gray;
+    background-color: gainsboro;
+    border-radius:10px;
+    padding-top: 10px;
+}
+   
+
+    .flex-style{
+        display: flex;
+        margin-top: 100px;
+        justify-content: space-between;
+        gap: 50px;
+    }
+    .flex-style img{
+        width: 100%;
+        box-shadow: 15px 15px 20px gray;
+        border-radius: 5px;
+        border: 5px solid gray;
+        
+    }
+    .lives-depend{
+        box-shadow: 15px 15px 40px gray;
+        border-radius: 15px;
+       
+        text-align: center; 
+        
+    }
+    .lives-depend h2{
+        font-size: 35px;
+    }
+    .flex-style2{
+
+        display: flex;
+        
+
+    }
+    .flex-style2 img{
+        width: 50%;
+        display: flex;
+        
+
+    }
+    .part4{
+        display: flex;
+        gap: 50px;
+        margin-top: 100px;
+       
+    }
+    .part4 img{
+        box-shadow: 15px 15px 40px gray;
+        border: 3px solid burlywood;
+    }
+    .get-myupdate h1{
+color: black;
+margin-top: 100px;
+    }
+    .get-myupdate p{
+        text-align: center
+    ;
+    }
+    .emailbox{
+margin-top: 50px;
+ height: 100px;
+ width:100%;
+text-align: center;
+ border-radius: 5px;
+background-color: darkgrey;
+padding-top: 50px;
+    
+    }
+    #lalbutton{
+        background-color: red;
+        font-weight: bold;
+        border-radius: 3px;
+        cursor: pointer;
+    }
